@@ -16,7 +16,7 @@ LIU BIN & LI HONGYU
 Uniquement les utilisateurs connectés ont droit de modifier le calendrier.
 ## Afficher l'événement
 ![xgcalendar screenshot2](img/event2.jpg)
-Les événements sont représentés avec la couleur gris pour montrer les plages horaires occupées.
+Les événements sont représentés avec la couleur gris pour montrer les plages horaires occupées. Quand mouseover les plages horaires occupées, il afficher le contenu de cet événement.
 
 ## Fonctionnement 
   * Suposser un utilisateur ajoute des événement avec une date, une heure de début et une heure de fin 
@@ -27,7 +27,7 @@ Les événements sont représentés avec la couleur gris pour montrer les plages
   * Demander confirmation avant de supprimer
   * Utiliser par mobile
   
- ##Techniques utilisés
+ ## Techniques utilisés
  * CSS
  * JavaScript
  * JSON
